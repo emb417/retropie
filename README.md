@@ -10,4 +10,4 @@ Primary running Arcade games (mame/fba), with a few NES faves and Oregon Trail (
 
 ## Game Specific Notes / Moves
 ### Mortal Kombat
-[Bios and Moves](Mortal Kombat.md)
+[Bios and Moves](./Mortal Kombat.md)
