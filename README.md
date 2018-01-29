@@ -11,3 +11,20 @@ Primary running Arcade games (mame/fba), with a few NES faves and Oregon Trail (
 ## Game Specific Notes / Moves
 ### Mortal Kombat
 [Bios and Moves](./mortal-kombat.md)
+### WWF Wrestlemania
+[Bios and Moves](./wwf-wrestlemania.md)
+
+## TODOs
+### FIX CONTROLS
+#### need better assignments
+- mk and mk2
+- smashtv
+- robotron
+- paperboy
+#### need assignments
+- tapper
+- tempest
+- tron
+#### right stick controls are opposite
+- afterburner
+- afterburner2
