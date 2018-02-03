@@ -3,28 +3,26 @@
 Planning to use this as a place to store any custom setup and configs.  
 
 ## Hardware
-Currently using Rpi3 Model B with a USB keyboard and 2 PS3 Controllers.  
+* Rpi3 Model B
+* Apple Keyboard via USB
+  * thinking about a mini keyboard for portability
+  * primarily ssh into pi anyways
+* [PS3 Controller via Bluetooth](controllers/ps3.cfg)
+* [Mayflash F300 Fightstick via USB](controllers/mayflash.cfg)
+  * w/Sanwa Octagonal Restrictor Plate (much easier for arcade controls)
+* Smraza All Black Case, Heatsinks and Fan
+  * 3D printed plates are inexpensive, but not cheap per se
+  * would love to try an aluminum or molded case
 
 ## Software
-Primary running Arcade games (mame/fba), with a few NES faves and Oregon Trail (2 Disks) on Apple 2 (linapple).
+* Many Arcade games (mame-libretro, mame2003 and pifba)
+* Few NES faves: Tetris, Zelda, Castlevania
+* Oregon Trail (2 Disks) on Apple 2 (linapple)
 
 ## Game Specific Notes / Moves
-### Mortal Kombat
-[Bios and Moves](./mortal-kombat.md)
-### WWF Wrestlemania
-[Bios and Moves](./wwf-wrestlemania.md)
 
-## TODOs
-### FIX CONTROLS
-#### need better assignments
-- mk and mk2
-- smashtv
-- robotron
-- paperboy
-#### need assignments
-- tapper
-- tempest
-- tron
-#### right stick controls are opposite
-- afterburner
-- afterburner2
+### Mortal Kombat
+* [Bios and Moves](games/mortal-kombat.md)
+
+### WWF Wrestlemania
+* [Bios and Moves](games/wwf-wrestlemania.md)
